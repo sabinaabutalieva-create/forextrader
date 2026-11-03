@@ -1,0 +1,2 @@
+# forextrader
+tak nado
