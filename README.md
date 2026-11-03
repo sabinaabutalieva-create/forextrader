@@ -1,2 +1,2 @@
-# forextrader
+# fx-radar
 tak nado
